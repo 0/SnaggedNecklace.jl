@@ -1,0 +1,6 @@
+name = "SnaggedNecklace example scripts"
+authors = ["Dmitri Iouchtchenko <diouchtc@uwaterloo.ca>"]
+
+[deps]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+SnaggedNecklace = "3cabd9b9-50c6-4550-8707-7ca5aa6f399b"
